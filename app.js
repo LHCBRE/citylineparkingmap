@@ -1,0 +1,2 @@
+const mockData={1:{available:686},2:{available:241},5:{available:112}};function updateUI(){Object.entries(lots).forEach(([key,lot])=>{const v=mockData[lot.apiId].available;document.querySelector(`#label-${key} .lot-count`).textContent=v;});}updateUI();// Future TCS function
+async function fetchTCSData(){/* replace mock data with API call */}

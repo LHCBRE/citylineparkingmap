@@ -1,0 +1,1 @@
+const lots={p1:{apiId:1,name:"Parking Deck 1",capacity:864},p2:{apiId:2,name:"Parking Deck 2",capacity:344},p5:{apiId:5,name:"Parking Deck 5",capacity:345}};
